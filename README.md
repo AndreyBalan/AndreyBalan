@@ -22,6 +22,7 @@ Portfolio
 
 ### Follow Me
 [![telegram](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/AndriiBalan)
+[![linkedin](https://img.shields.io/badge/-linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/andrii-balan-523422126/)
 [![instagram](https://img.shields.io/badge/-instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/andrew.balan/)
 [![facebook](https://img.shields.io/badge/-facebook-000000?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/profile.php?id=100004198513437)
 [![twitter](https://img.shields.io/badge/-twitter-000000?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/AndrewBalan)
