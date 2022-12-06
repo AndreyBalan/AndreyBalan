@@ -5,7 +5,7 @@
 Portfolio
 
 ### Languages and Tools
-![Html](https://img.shields.io/badge/-HTML-<000000>?style=for-the-badge&logo=html&logoColor=ff781f)
+![Html](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML&logoColor=ff781f)
 
 
 Follow Me
