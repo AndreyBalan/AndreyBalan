@@ -15,7 +15,7 @@ Portfolio
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=Figma&logoColor=ff781f)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=for-the-badge&logo=Photoshop&logoColor=ff781f)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=for-the-badge&logo=jQuery&logoColor=ff781f)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=ff781f)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=ff781f)
 
 
 
