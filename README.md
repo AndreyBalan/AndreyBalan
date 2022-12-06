@@ -11,7 +11,7 @@ Portfolio
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=ff781f)
 ![Gulp](https://img.shields.io/badge/-Gulp-000000?style=for-the-badge&logo=Gulp&logoColor=ff781f)
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=for-the-badge&logo=Sass&logoColor=ff781f)
-![SCSS](https://img.shields.io/badge/-SCSS-000000?style=for-the-badge&logo=SCSS&logoColor=ff781f)
+![Scss](https://img.shields.io/badge/-Scss-000000?style=for-the-badge&logo=Scss&logoColor=ff781f)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=Figma&logoColor=ff781f)
 
 
