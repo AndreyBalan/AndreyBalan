@@ -5,17 +5,17 @@
 Portfolio
 
 ### Languages and Tools
-![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5&logoColor=ff781f)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=ff781f)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=ff781f)
-![Gulp](https://img.shields.io/badge/-Gulp-000000?style=for-the-badge&logo=Gulp&logoColor=ff781f)
-![Sass](https://img.shields.io/badge/-Sass-000000?style=for-the-badge&logo=Sass&logoColor=ff781f)
+![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=F05032)
+![Gulp](https://img.shields.io/badge/-Gulp-000000?style=for-the-badge&logo=Gulp&logoColor=CF4647)
+![Sass](https://img.shields.io/badge/-Sass-000000?style=for-the-badge&logo=Sass&logoColor=CC6699)
 ![Scss](https://img.shields.io/badge/-Scss-000000?style=for-the-badge&logo=Scss&logoColor=ff781f)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=Figma&logoColor=ff781f)
-![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=for-the-badge&logo=Photoshop&logoColor=ff781f)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=for-the-badge&logo=jQuery&logoColor=ff781f)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=ff781f)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=Figma&logoColor=F24E1E)
+![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=for-the-badge&logo=jQuery&logoColor=0769AD)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
 
 
 
