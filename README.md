@@ -5,7 +5,14 @@
 Portfolio
 
 ### Languages and Tools
-![Html](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML&logoColor=ff781f)
+![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML&logoColor=ff781f)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS&logoColor=ff781f)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=ff781f)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=ff781f)
+![Gulp](https://img.shields.io/badge/-Gulp-000000?style=for-the-badge&logo=Gulp&logoColor=ff781f)
+![Sass](https://img.shields.io/badge/-Sass-000000?style=for-the-badge&logo=Sass&logoColor=ff781f)
+![SCSS](https://img.shields.io/badge/-SCSS-000000?style=for-the-badge&logo=SCSS&logoColor=ff781f)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=Figma&logoColor=ff781f)
 
 
 Follow Me
