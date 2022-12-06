@@ -13,6 +13,11 @@ Portfolio
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=for-the-badge&logo=Sass&logoColor=ff781f)
 ![Scss](https://img.shields.io/badge/-Scss-000000?style=for-the-badge&logo=Scss&logoColor=ff781f)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=Figma&logoColor=ff781f)
+![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=for-the-badge&logo=Photoshop&logoColor=ff781f)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=for-the-badge&logo=jQuery&logoColor=ff781f)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=ff781f)
+
+
 
 
 Follow Me
