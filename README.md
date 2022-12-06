@@ -5,7 +5,7 @@
 Portfolio
 
 ### Languages and Tools
-![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML&logoColor=ff781f)
+![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html&logoColor=ff781f)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS&logoColor=ff781f)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=ff781f)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=ff781f)
